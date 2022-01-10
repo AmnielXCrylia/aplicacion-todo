@@ -1,5 +1,5 @@
-# Webpack configurado
+# Aplicación de todos
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+ Ejecutar el comando de ```npm install``` para instalar los paquetes
 
   
